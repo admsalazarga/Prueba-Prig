@@ -20,7 +20,7 @@ Asegúrese de tener instalado virtualenv globalmente, o ejecute:
 Obtenga este repositorio en su PC
 
 ```
-$ git clone https://github.com/admsalazarga/Prueba-Agata.git
+$ git clone https://github.com/admsalazarga/Prueba-Prig
  ```
  
 Instale las dependencias necesarias para ejecutar la aplicación:
